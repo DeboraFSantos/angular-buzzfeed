@@ -1,0 +1,219 @@
+{
+  "title": "Qual princesa da Disney você seria?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual destas qualidades é mais importante para você?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Coragem",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Bondade",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Inteligência",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Determinação",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual é o seu passatempo favorito?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Ler",
+          "alias": "C"
+        },
+        {
+          "id": 2,
+          "name": "Cantar",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Explorar a natureza",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Praticar esportes",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Como você prefere passar o seu tempo livre?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Ajudando os outros",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Treinando para melhorar",
+          "alias": "D"
+        },
+        {
+          "id": 3,
+          "name": "Descobrindo coisas novas",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Planejando novas aventuras",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "O que você valoriza mais em um amigo?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Lealdade",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Honestidade",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Compaixão",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Diversão",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual é o seu maior sonho?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Viajar pelo mundo",
+          "alias": "D"
+        },
+        {
+          "id": 2,
+          "name": "Encontrar o verdadeiro amor",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Fazer a diferença no mundo",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Aprender tudo que puder",
+          "alias": "C"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "O que você faria se descobrisse um segredo importante?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Revelaria para todos",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Guardaria para si mesma",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Compartilharia com pessoas de confiança",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Usaria como vantagem",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Qual destes objetos mágicos você escolheria?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Espelho mágico",
+          "alias": "C"
+        },
+        {
+          "id": 2,
+          "name": "Varinha de condão",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Tapete voador",
+          "alias": "D"
+        },
+        {
+          "id": 4,
+          "name": "Colar encantado",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual seria sua mensagem para o mundo?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Acredite em si mesmo",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Seja gentil com todos",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Explore o desconhecido",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Nunca desista de seus sonhos",
+          "alias": "D"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você seria a Cinderela!",
+    "B": "Você seria a Branca de Neve!",
+    "C": "Você seria a Bela!",
+    "D": "Você seria a Jasmine!"
+  }
+}
